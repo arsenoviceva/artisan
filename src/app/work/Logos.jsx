@@ -1,0 +1,17 @@
+export const Logos = [
+  { id: 1, src: "/images/artisan.jpeg" },
+  { id: 2, src: "/images/sofa.jpg" },
+  { id: 3, src: "/images/palacinka.jpg" },
+  { id: 4, src: "/images/hauz.jpg" },
+  { id: 5, src: "/images/irac.jpg" },
+  { id: 6, src: "/images/jana.jpg" },
+  { id: 7, src: "/images/sofakat.jpg" },
+  { id: 8, src: "/images/marihone.jpg" },
+  { id: 9, src: "/images/mimoza.png" },
+  { id: 10, src: "/images/mkducan.jpg" },
+  { id: 11, src: "/images/gis.jpg" },
+  { id: 12, src: "/images/bikefest.jpg" },
+  { id: 13, src: "/images/redorange.jpg" },
+  { id: 14, src: "/images/krug.jpg" },
+  { id: 15, src: "/images/vandkunsten.jpg" },
+];
